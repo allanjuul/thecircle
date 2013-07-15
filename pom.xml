@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>dk.aju.test</groupId>
-  <artifactId>ajutest1</artifactId>
+  <artifactId>thecircle</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>ajutest1</name>
+  <name>thecircle</name>
   <url>http://maven.apache.org</url>
 
   <properties>
