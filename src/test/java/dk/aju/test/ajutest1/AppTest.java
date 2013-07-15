@@ -31,7 +31,7 @@ public class AppTest extends TestCase {
     public void testApp() {
         TheCalendar theCalendar = new TheCalendar();
         String ret = theCalendar.getSomeThing( "1400439600");
-        boolean contains2014 = ret.contains( "201a4");
+        boolean contains2014 = ret.contains( "2014");
         assertTrue( contains2014 );
     }
 }
